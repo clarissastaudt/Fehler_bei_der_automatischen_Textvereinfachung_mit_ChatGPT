@@ -1,1 +1,1 @@
-# Fehler_bei_der_automatischen_Textvereinfachung_mit_ChatGPT
+# Fehler bei der automatischen Übersetzung mit ChatGPT in einfache Sprache 
