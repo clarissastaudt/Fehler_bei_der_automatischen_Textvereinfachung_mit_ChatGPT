@@ -1,0 +1,27 @@
+Überschrift: Eine neue Hilfe, die durch Augenfotos Krankheiten erkennt
+
+Teaser: Unsere Augen sagen viel über unsere Gesundheit aus. Jetzt gibt es eine Computer-Hilfe, die das nutzen kann.
+
+Ein internationales Team hat eine künstliche Intelligenz entwickelt. Diese nennt sich RETFound und kann viele Krankheiten aufspüren, indem sie Aufnahmen von der Netzhaut anschaut. Die Netzhaut ist ganz hinten in unserem Auge. RETFound findet zum Beispiel Augenprobleme und die Krankheit Parkinson. Forschende haben über diese Künstliche Intelligenz in der Zeitschrift "Nature" berichtet.
+
+Was macht RETFound besonders? Früher brauchte man Personen, die die Bilder angesehen und eingeordnet haben. Das war sehr teuer und hat lange gedauert. RETFound lernt aber selbstständig. Die KI schaut sich an, wie Bilder von einer gesunden Netzhaut aussehen sollen.
+
+Dafür zeigten die Forschenden der KI 1,6 Millionen Bilder. Diese Bilder waren nicht eingeordnet. So hat die KI gelernt, wie eine gesunde Netzhaut aussieht. RETFound funktioniert ähnlich wie andere KI-Modelle wie ChatGPT. Diese Programme sehen viele Beispiele und begreifen dann, was sie als nächstes tun sollen. RETFound hat auf diese Weise viele Netzhautbilder gesehen und so gelernt.
+
+Pearse Keane, ein Augenarzt im Moorfields Eye Hospital in London, ist Teil des Teams. Er sagt: "Die KI lernt viel, indem sie viele Bilder betrachtet. Sie merkt sich, wie eine gesunde Netzhaut auszusehen hat."
+
+Unterüberschrift: Die Augen und unsere Gesundheit
+
+Die Netzhaut ist sehr interessant. Sie zeigt winzige Blutgefäße in unserem Körper. Krankheiten wie hoher Blutdruck können auf den Netzhautbildern erkannt werden. Viele Medizinerinnen und Mediziner finden es aber schwer, diese Bilder zu deuten. Hier kann die KI helfen.
+
+Die Forschenden haben RETFound anfangs mit den 1,6 Millionen nicht eingeordneten Bildern trainiert. Später fügten sie Bilder zu, die gezeigt haben, welche Personen Parkinson haben und welche nicht. So hat RETFound gelernt, die Zeichen auf den Bildern den Krankheiten zuzuweisen.
+
+RETFound ist bei Augenkrankheiten sehr treffsicher. Ein schlechtes System wäre bei 0,5 Punkten. Ein perfektes bei 1 Punkt. RETFound erreichte Werte zwischen 0,822 und 0,943. Das ist sehr gut. Auch bei anderen Erkrankungen wie Herzinfarkt, Herzmuskelschwäche, Schlaganfall und Parkinson schnitt RETFound besser ab als andere KI-Systeme.
+
+Unterüberschrift: Kann RETFound auch andere medizinische Bilder analysieren?
+
+RETFound macht seine Sache bei medizinischen Bildern gut. Xiaoxuan Liu aus Birmingham beschäftigt sich mit KI in der Medizin. Sie fragt sich, welche anderen Bilder RETFound noch analysieren kann. Vielleicht Bilder aus MRT- oder CT-Untersuchungen?
+
+Die Entwickelnden von RETFound haben das System allen zugänglich gemacht. Sie hoffen, dass Teams weltweit es nutzen und für ihre Kranken anpassen. Pearse Keane sagt: "Man kann die KI nehmen und sie mit eigenen Bildern verbessern."
+
+Xiaoxuan Liu begrüßt das, warnt aber zur Vorsicht. Fehler in RETFound könnten sonst auch in anderen Systemen entstehen, die darauf aufbauen. Wichtig ist, verantwortungsvoll mit RETFound umzugehen. Die Entwickler müssen offen darüber sprechen, was die KI noch nicht kann. Nur so kann RETFound am Ende auch wirklich unterstützen.
