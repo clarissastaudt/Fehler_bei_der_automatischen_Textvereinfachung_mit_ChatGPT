@@ -1,0 +1,8 @@
+Überschrift: Starship erstmals nicht explodiert
+
+Teaser: Die Oberstufe des von SpaceX für Mond- und Marsflüge entwickelten Starship-Systems ist nach einem Flug in zehn Kilometer Höhe sanft gelandet. Vier Prototypen waren zuvor bei Testflügen explodiert.
+
+Diesmal ohne Explosion endete der Testflug eines Prototyps der Starship-Rakete des Unternehmens SpaceX. Während sich die vier vorherigen Versionen der Rakete nach den Höhentests allesamt während oder kurz nach der Landung spektakulär in ihre Einzelteile zerlegten, blieb der Prototyp SN15 diesmal in einem Stück. Zwar begann nach der Landung die Unterseite der Rakete zu brennen« – was im März 2021 dem Prototyp SN10 beim dritten Landeversuch zum Verhängnis wurde –, diesmal allerdings gelang es der Bodencrew, das Feuer zu löschen. Die etwa 55 Meter langen Starship-Raketen sollen, kombiniert mit der ersten Stufe namens »Super Heavy«, Menschen zu Mond und Mars bringen.
+
+Bei den aktuellen Flugtests in Boca Chica im US-Bundesstaat Texas fliegen die Starship-Prototypen etwa zehn Kilometer hoch in die Atmosphäre und kehren zur Landestelle zurück. Dabei wird vor allem die ungewöhnliche Abstiegs- und Landesequenz getestet: Die Starship-Oberstufe fällt auf der Seite liegend zur Erde zurück und kontrolliert den Abstieg mit den Steuerflächen an Heck und Spitze. Erst in der letzten Phase der Landung richtet sich das Fluggerät wieder auf und landet vertikal. Die Entwicklung des auch äußerlich ungewöhnlichen Fluggeräts – wegen seiner Stahlhülle glänzt Starship silbrig – verläuft iterativ, das heißt, nach jedem Test analysieren Fachleute die Resultate und verbessern den nächsten Prototyp entsprechend. Bei diesem Verfahren sind Fehlschläge einkalkuliert.
+

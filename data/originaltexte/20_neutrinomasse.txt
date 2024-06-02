@@ -1,0 +1,15 @@
+Überschrift: Neutrinomasse auf unter ein Elektronvolt bestimmt
+
+Teaser: Seitdem man weiß, dass das Neutrino nicht nichts wiegt, suchen Fachleute nach seiner exakten Masse. Mit einem Wert von 0,8 Elektronvolt kommen sie ihr nun so nah wie nie zuvor.
+
+Bei der Suche nach der Masse des Neutrinos haben Fachleute einen wichtigen Meilenstein passiert und die Grenze von einem Elektronvolt (eV) durchbrochen. Demnach beträgt die Masse des subatomaren »Geisterteilchens« weniger als 0,8 eV. Wie viel weniger, wollen die Forscherinnen und Forscher der Karlsruher Institut für Technologie bei weiteren, noch genaueren Messkampagnen an ihrem KATRIN-Experiment herausfinden.
+
+Über das Durchbrechen der Ein-eV-Grenze informiert das Karlsruher Team jetzt im Fachblatt »Nature Physics«. Darin schreiben sie, dass der Erfolg vor allem der minuziösen Suche nach Störfaktoren zu verdanken war. Ein eV entspricht ungefähr einem Milliardstel der Masse eines Protons, entsprechend empfindlich muss die Messapparatur sein.
+
+KATRIN (Karlsruhe Tritium Neutrino Experiment) ist seit 2019 in Betrieb. Es verwendet für die Messung das instabile Wasserstoffisotop Tritium. Bei seinem radioaktiven Zerfall entstehen neben einem Heliumatom gleichzeitig ein Elektron und ein Elektron-Antineutrino. Letzteres verschwindet einfach aus der Messapparatur – Neutrinos interagieren praktisch gar nicht mit der normalen Materie um sie herum, daher auch der Spitzname »Geisterteilchen« und daher auch die Schwierigkeiten beim Bestimmen ihrer Masse. Das Elektron aber kann von dem 70 Meter langen Instrument aufgefangen und in einem Spektrometer analysiert werden. Weil es einen Bruchteil seiner Energie an das Neutrino abgeben musste, unterscheidet sich die Gesamtenergieverteilung aller aufgefangenen Elektronen im Vergleich zu einem hypothetischen Fall, in dem das Neutrino gar keine Masse hätte. Aus der Differenz ermittelt das Karlsruher Team dann die Masse des Neutrinos.
+
+Neutrinos sind elektrisch neutrale Elementarteilchen. Sie entstehen unter anderem in der Sonne oder beim radioaktiven Zerfall, das macht sie zu den häufigsten Elementarteilchen im Universum: Jede Sekunde durchströmen Milliarden von ihnen jeden Quadratzentimeter unserer Haut. Nur in sehr seltenen Fällen interagieren sie mit einem Atom, was über gewaltige Messapparaturen auch direkt aufgespürt werden kann, zum Beispiel im ewigen Eis der Antarktis.
+
+Zeitweise hatten Fachleute sogar angenommen, dass Neutrinos gar keine Masse haben. Nobelpreisgekrönte Untersuchungen zur so genannte Neutrino-Oszillation haben aber zweifelsfrei belegt, dass dem nicht so ist. Bei der Neutrino-Oszillation wandeln sich die drei Arten von Neutrinos, genannt »Geschmacksrichtungen« (englisch: flavour) ineinander um. Neben den Elektron-Neutrinos gibt es auch Tau- und Myon-Neutrinos. Das funktioniert nur, wenn die Neutrinomasse mindestens 0,01 eV beträgt.
+
+

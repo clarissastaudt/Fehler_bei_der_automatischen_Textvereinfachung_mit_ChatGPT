@@ -1,0 +1,25 @@
+Überschrift: Mit einem CRISPR-Cousin gegen Cholesterin
+
+Teaser: Ein Schnitt statt zwei: Mit Hilfe des Base Editing können Forschende präziser in das Ergbut eingreifen als mit CRISPR-Cas9. Nun laufen erste Tests mit Menschen, um Cholesterin zu senken.
+
+Jetzt kann sich ein Cousin von CRISPR beweisen. Seit Kurzem prüft ein Team erstmals an Menschen, ob sich eine Genom-Editing-Methode sicher einsetzen lässt, die mit dem CRISPR-Cas9-System verwandt ist. Mit dem Base Editing möchte man eine Erbgutsequenz in einem cholesterinregulierenden Gen präzise ändern, ohne zuerst beide DNA-Stränge zu zerstören, wie es CRISPR-Cas9 tun würde.
+
+Auf die Versuche soll eine weitere Base-Editing-Studie folgen, in der Forschende eine genetisch bedingte Bluterkrankung behandeln wollen – die Sichelzellenanämie. Noch im Jahr 2022 soll die Testreihe starten.
+
+Die Ergebnisse beider Studien werden voraussichtlich im Jahr 2023 vorliegen, während für weitere Base-Editing-Therapien die Zulassung für erste klinischen Versuche ansteht. »Es ist sehr aufregend, dass die ersten klinischen Versuche mit CRISPR-Cas9 und jetzt auch mit Base Editing beginnen«, sagt Gerald Schwank, der sich an der Universität Zürich mit Genome Editing zur Behandlung von Krankheiten beschäftigt. »Wir haben noch viel zu lernen.«
+
+Unterüberschrift: Mit Base Editing den Cholesterinspiegel senken
+
+Bei der Mitte Juli 2022 angekündigten Studie wird ein Basen-Editor eingesetzt, um eine Adeninbase (A) in eine Guaninbase (G) in der DNA umzuwandeln, die für ein Protein namens PCSK9 codiert, einen wichtigen Regulator des Cholesterinspiegels. Der von Verve Therapeutics in Cambridge, Massachusetts, entwickelte Ansatz zielt darauf ab, die Menge an funktionsfähigem PCSK9 bei Menschen mit der heterozygoten familiären Hypercholesterinämie zu verringern, die einen hohen Cholesterinspiegel verursacht und zu Herzerkrankungen führen kann. Die Deaktivierung von PCSK9 senkt nachweislich den Cholesterinspiegel und das Risiko von Herzerkrankungen, und mehrere bereits auf dem Markt befindliche Therapien reduzieren die PCSK9-Aktivität.
+
+»Das könnte sehr vielversprechend sein«, sagt Piter Bosma, der an der Amsterdamer Universitätsklinik Lebererkrankungen untersucht. Bosma verweist auf präklinische Ergebnisse an Makaken (Macaca fascicularis), die 2021 veröffentlicht wurden. Demnach reduzierte sich die PCSK9-Konzentration im Blut um 81 Prozent, der Cholesterinspiegel im Blut sank ohne erkennbare schädliche Nebenwirkungen. Eine weitere Studie an Makaken von Schwank und seinen Kollegen ergab ebenfalls, dass die Behandlung sicher ist.
+
+Trotz des vorsichtigen Optimismus werden die Forschenden prüfen, ob die Behandlung zu unerwünschten genetischen Veränderungen führt. Das Risiko dieser Nebenwirkungen könnte durch den Nutzen der Behandlung für Menschen mit stark erhöhten Cholesterinwerten aufgewogen werden, die Forscher benötigen jedoch langfristige Daten, bevor sie sich sicher sein können. »Vielleicht werden wir das in vielen Jahren wissen, aber im Moment noch nicht«, sagt Bosma.
+
+Unterüberschrift: Alternative Cas-Enzyme verändern eher RNA als DNA
+
+Die Verve-Studie zielt darauf ab, Zellen direkt im Körper zu verändern. Das Team hat die Komponenten für den Basenschnitt verpackt. Es handelt sich um Boten-RNA, die für das Enzym codiert, das zur Veränderung der DNA benötigt wird, und ein zusätzliches RNA-Stück, das die Enzyme an die richtige Stelle lenkt. Eingeschlossen sind die Teile in Lipid-Nanopartikel, die jenen ähneln, welche man für mRNA-Covid-19-Impfstoffe nutzt. Die Nanopartikel werden in der Leber konzentriert, einem wichtigen Ort der PCSK9-Produktion.
+
+Im Gegensatz dazu will das Team bei der bevorstehenden Sichelzellenstudie die DNA in Blutstammzellen, die dem Körper entnommen wurden, mit Hilfe von Base Editing verändern. Anschließend möchte man den Teilnehmenden diese Zellen wieder spritzen. Die Studie wird von Beam Therapeutics durchgeführt, das ebenfalls in Cambridge ansässig ist und die Cholesterin-Base-Editing-Therapie mit Verve entwickelt hat.
+
+Und es gibt noch viele weitere Überlegungen, die Technik zu nutzen. Manche Gruppen wollen beispielsweise eine seltene Stoffwechselerkrankung namens Glykogenspeicherkrankheit behandeln, andere die Stargardt-Krankheit, die zur Erblindung führen kann. Zudem bereiten Forschende weitere von CRISPR abgeleitete Ansätze für klinische Versuche vor. Es wurden alternative Cas-Enzyme entdeckt, die eher RNA als DNA verändern können. Schwank sagt, sein Labor sei von der Basenbearbeitung zu einer Technik namens Prime Editing übergegangen, die mehr Präzision bietet: »Es geht alles sehr schnell voran.«

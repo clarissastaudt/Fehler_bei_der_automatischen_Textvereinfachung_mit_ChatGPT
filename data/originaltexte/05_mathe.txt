@@ -1,0 +1,31 @@
+Überschrift: KI bringt mathematische Forschung voran
+
+Teaser: Das »Cap-Set-Problem« ist an ein beliebtes Kartenspiel angelehnt und seit Jahrzehnten ungelöst. Nun hat ein KI-Sprachmodell Mathematikern dabei geholfen, der Lösung näher zu kommen.
+
+Das Kartenspiel »Set« inspiriert Mathematikerinnen und Mathematiker schon lange und hat bereits zu interessanten Fragestellungen geführt. Nun hat ein Sprachmodell (Englisch: Large Language Model, kurz: LLM) Fachleuten dabei geholfen, der Lösung eines solchen Set-Problem näher zu kommen.
+
+Das KI-System mit dem Namen »FunSearch« erzielte Fortschritte bei der Lösung eines Problems aus dem mathematischen Bereich der Kombinatorik, der sich um die möglichen Anordnungen von Mengen mit endlich vielen Objekten beschäftigt. Die Entwickler des KI-Programms sagen, dass sich ihre Methode auf eine Vielzahl von Fragen aus der Mathematik und Informatik anwenden ließe. Sie haben ihre Arbeit am 14. Dezember 2023 in der Fachzeitschrift »Nature« veröffentlicht.
+
+»Es ist das erste Mal, dass jemand gezeigt hat, dass ein LLM-basiertes System über das hinausgehen kann, was Mathematiker und Informatiker bereits wussten«, sagt der Informatiker Pushmeet Kohli, der das »AI for Science-Team« bei Google DeepMind in London leitet. »Es ist nicht nur neu, sondern auch effektiver als alles andere, was heute existiert.« Das Ergebnis stehe im Gegensatz zu früheren Experimenten, bei denen Fachleute große Sprachmodelle verwendet haben, um mathematische Probleme mit bereits bekannten Lösungen anzugehen, so Kohli.
+
+Unterüberschrift: Mathematischer Chatbot
+
+»FunSearch« erstellt automatisiert Anfragen an ein speziell trainiertes Sprachmodell und bittet es, kurze Computerprogramme zu schreiben, um ein bestimmtes mathematisches Problem zu lösen. Das System überprüft dann, ob diese Lösungen besser sind als die bereits bekannten. Ist das nicht der Fall, gibt es dem Sprachmodell ein Feedback, damit es sich in der nächsten Runde verbessert.
+
+»Wir nutzen das Sprachmodell als Kreativitätsmotor«, sagt DeepMind-Informatiker Bernardino Romera-Paredes. Nicht alle Programme, die das Sprachmodell erzeugt, sind nützlich – einige sind sogar so fehlerhaft, dass sie sich nicht einmal ausführen lassen, sagt er. Aber eine andere Software kann die fehlerhaften Programme verwerfen und die Ausgabe der richtigen Programme prüfen.
+
+Das Team testete »FunSearch« mit dem »Cap-Set-Problem«. Dieses hat sich aus dem Spiel »Set« entwickelt, das die Genetikerin Marsha Falco in den 1970er Jahren erfunden hat. Das Spiel besteht aus 81 Karten. Jede Karte zeigt ein, zwei oder drei Symbole, die in Farbe, Form und Schattierung jeweils drei verschiedene Optionen annehmen können. Zusammen ergeben diese Möglichkeiten die Summe von 3·3·3·3 = 81 unterschiedlichen Spielkarten. Die Spieler müssen die Karten umdrehen und spezielle Kombinationen von drei Karten, so genannte Sets, entdecken.
+
+Mathematikerinnen und Mathematiker haben gezeigt, dass man garantiert ein Set findet, wenn die Anzahl der umgedrehten Karten mindestens 21 beträgt. Sie haben auch Lösungen für komplexere Versionen des Spiels gefunden, bei denen abstrakte Kartenvarianten fünf oder mehr Eigenschaften haben. Aber einige Rätsel bleiben bestehen. Wenn es zum Beispiel n Eigenschaften gibt, dann gibt es 3n mögliche Karten – aber die Mindestanzahl derer, die man aufdecken muss, um eine Lösung zu garantieren, ist bis heute unbekannt.
+
+Dieses Problem lässt sich durch die diskrete Geometrie formulieren. Dort ist es gleichbedeutend mit der Suche nach bestimmten Anordnungen von drei Punkten in einem n-dimensionalen Raum. Fachleuten ist es gelungen, die allgemeine Lösung einzugrenzen: Bei einer vorgegebenen Zahl n muss die erforderliche Anzahl von aufgedeckten Karten größer sein als eine Zahl, die durch eine bestimmte Formel berechnet werden kann; gleichzeitig ist sie aber kleiner als eine andere Zahl, die durch eine andere Formel definiert ist. Sprich: Man hat eine obere und eine untere Schranke, aber der genaue Wert für die Anzahl benötigter Karten ist ungewiss.
+
+Unterüberschrift: Zusammenarbeit von Mensch und Maschine
+
+»FunSearch« konnte die untere Schranke für n = 8 verbessern, indem es Sätze von Karten erzeugte, die alle Anforderungen erfüllten. »Wir haben nicht bewiesen, dass es nicht noch eine bessere Schranke gibt. Aber wir haben eine Konstruktion gefunden, die über das hinausgeht, was bisher bekannt war«, sagt DeepMind-Informatiker Alhussein Fawzi.
+
+Ein wichtiges Merkmal von »FunSearch« sei, dass Menschen die erfolgreichen Programme, die das Sprachmodell erstellt hat, einsehen und von ihnen lernen können, sagt Koautor Jordan Ellenberg, Mathematiker an der University of Wisconsin-Madison. Damit unterscheidet sich die Technik von anderen Anwendungen, bei denen die KI eine Blackbox ist.
+
+»Das Spannendste für mich ist die Modellierung neuer Formen der Zusammenarbeit zwischen Mensch und Maschine«, sagt Ellenberg. »Ich möchte sie nicht als Ersatz für menschliche Mathematiker einsetzen, sondern als Kraftverstärker.«
+
+	

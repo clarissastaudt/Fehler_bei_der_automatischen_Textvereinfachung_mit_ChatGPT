@@ -1,0 +1,12 @@
+Überschrift: Wenn der Mond heller als die Sonne ist
+
+Teaser: Könnten wir den Erdtrabanten im Bereich der Gammastrahlen sehen, würde er die Sonne an Strahlungsintensität deutlich übertreffen. Zumindest, was hochenergetische Teilchen mit Energien von etwa 31 Millionen Elektronvolt betrifft.
+
+Anders als sichtbares Licht lassen sich Gammastrahlen nicht detailliert genug auflösen, um Oberflächenstrukturen auf einem Himmelskörper zu erkennen. Stattdessen zeigen die Bilder des Fermi Large Area Telescope (LAT) ein markantes Leuchten, das zum Zentrum unseres Trabanten hin zunimmt. Dieses Glühen wird aktuell von Mario Nicola Mazziotta und Francesco Loparco am italienischen Nationalinstitut für Kernphysik in Bari genauer untersucht. Ziel ist es, die hochenergetische kosmische Strahlung besser zu verstehen.
+
+Diese Strahlung besteht überwiegend aus Protonen, die bei extremen Ereignissen im Kosmos freigesetzt werden, etwa bei der Kollision von Neutronensternen, Supernovae oder den Jets aktiver Schwarzer Löcher. Als geladene Partikel lassen sich die hochenergetischen Protonen leicht von magnetischen Feldern ablenken. Da der Mond jedoch kein nennenswertes Magnetfeld besitzt, kann die Strahlung ungestört mit dessen Oberfläche wechselwirken. Damit fungiert unser Trabant beinahe wie ein natürlicher Teilchendetektor. Denn die kosmischen Partikel erzeugen Gammastrahlung, die überwiegend vom Mondgestein absorbiert wird. Einige der hochenergetischen Photonen werden jedoch reflektiert und können somit von Fermi registriert werden. So wird unter anderem deutlich, dass die Gammaemission des Mondes in Korrelation mit dem elfjährigen Aktivitätszyklus der Sonne schwankt.
+
+Wendet man sich dagegen kosmischen Teilchen mit noch höherer Energie zu, durchdringen diese sogar das solare Magnetfeld und beeinflussen die dichte Atmosphäre der Sonne. Auch derartige Partikel mit mehr als einer Billion Elektronvolt erzeugen Gammastrahlung, die einen weiteren Datensatz für das Fermi-Teleskop liefert.
+
+Loparco und Mazziotta haben die über Jahre aufgezeichneten Daten ausgewertet und verglichen, wie sich unser Verständnis der hochenergetischen Strahlung allmählich verbessert hat. Denn spätestens wenn die NASA wie angekündigt um das Jahr 2025 wieder Astronauten zum Mond und vielleicht zum Mars entsendet, wird das detaillierte Wissen um das Strahlungsfeld unseres benachbarten Himmelskörpers von essenzieller Bedeutung sein.
+
