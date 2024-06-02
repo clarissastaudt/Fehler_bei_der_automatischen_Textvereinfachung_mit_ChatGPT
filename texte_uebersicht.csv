@@ -1,0 +1,25 @@
+id,filename,title,topic,section,date,reading_time,nr_sentences_original,nr_words_original,nr_characters_original,nr_sentences_einfach,nr_words_einfach,nr_characters_einfach,wiener_sachtext_original,wiener_sachtext_einfach,wiener_sachtext_4_original,wiener_sachtext_4_einfach
+1,01_parkinson,KI erkennt Augenkrankheiten und Parkinson anhand von Netzhautbildern,IT/Techt,News,14.09.23,3,35,792,5689,48,464,3181,"3,03","0,78",4.458263905642674,"0.8831796923076922
+"
+2,02_darmbakterien,Darmbakterien können Leberzellwachstum beeinflussen,Medizin,News,01.03.23,3,37,608,4470,32,357,2475,"2,22","1,03",3.1738874034141955,1.2834842523596621
+3,03_cholesterin,Mit einem CRISPR-Cousin gegen Cholesterin,Medizin,News,26.07.22,3,34,618,4547,37,356,2442,"2,01","0,86",2.8465688787185344,"1.018648691891892
+"
+4,04_mars,Der Mars als Eisplanet,Astronomie,News,04.08.20,1,15,339,2297,22,337,2321,"2,41","1,6",3.4787037886023557,2.2069893333333335
+5,05_mathe,KI bringt mathematische Forschung voran,Mathematik,News,23.03.22,5,39,699,4936,32,324,2277,"2,09","0,93",2.9814680108857003,"1.139190532544379
+"
+6,06_batterie,Mit KI auf der Suche nach der Superbatterie,IT/Tech,News,09.01.24,3,39,731,5544,27,276,1748,"2,05","0,86",2.8937816247582204 ,1.0418292682926826
+7,07_hefe,Hefe mit zur Hälfte künstlichem Erbgut,Biologie,News,09.11.23,4,48,854,6114,34,370,2554,"2,42","1,23",3.496398596217586,1.6191649865591398 
+8,08_flächenversiegelung,Flächenversiegelung und intensive Landwirtschaft bedrohen Böden,Erde/Umwelt,News,09.01.24,2,33,504,3713,36,366,2331,"1,79","0,97",2.4907035559986705,1.2148105436820402
+9,09_mond,Wenn der Mond heller als die Sonne ist,Astronomie,News,16.08.19,1,17,314,2386,24,312,2135,"2,18","1,27",3.0966367149758454,1.679397373358349
+10,10_neandertaler,Starb der Neandertaler einfach so aus?,Kultur,News,28.11.19,2,20,541,3926,29,359,2348,"2,6","1,16",3.7763154589371983,1.5070813146682895 
+11,11_starship,Starship erstmals nicht explodiert,IT/Tech,News,06.05.21,1,11,243,1686,24,277,1826,"3,01","1,02",4.423232323232323,1.2814941391941392
+12,12_eismond,Eismond produziert Zutaten des Lebens,Chemie,News,08.10.19,1,11,280,2059,18,266,1794,"2,87","1,87",4.186658741258741,2.633405133689839
+13,13_neutrinos,Keine sterilen Neutrinos im ewigen Eis,Physik,News,09.06.20,1,13,280,2086,21,257,1753,"2,05","1,18",2.885507539923186,1.525946689536878
+14,14_kunststoffe,Mehr als 4000 bedenkliche Substanzen in Kunststoffen,Chemie,News,19.03.24,1,25,429,3206,30,334,2383,"1,92","1,14",2.6880666666666664 ,"1.4630305039787799
+"
+15,15_corona,Warum es noch keinen neuen Corona-Lockdown gibt,Mathematik,News,22.06.20,3,60,787,5543,29,305,1948,"1,69","0,93",2.3368069700697007,1.1423957784743992 
+16,16_lügen,Lügen zeigen sich in Mimikry,Psychologie/Hirnforschung,News,19.01.21,2,25,442,3073,27,253,1732,"1,92","0,81",2.700254658385093,0.9422202729044833
+17,17_intelligenz,Meine intelligentere Hälfte,Psychologie/Hirnforschung,News,13.08.20,2,19,364,2463,32,349,2252,"1,71","0,97",2.3842726089238844 ,1.2026076726342714 
+18,18_neutrinos,Neutrinos treiben Schockwelle an,Astronomie,News,22.04.21,1,10,196,1361,26,258,1693,2,"0,75",2.831156321839081,0.8477368421052631 
+19,19_wüste,Verborgene Bakterien unter der heißesten Wüste der Welt,Biologie,News,24.04.24,2,21,367,2658,20,257,1677,"2,19","1,38",3.1217348743210818 ,1.8531222641509433 
+20,20_neutrinomasse,Neutrinomasse auf unter ein Elektronvolt bestimmt,Physik,News,14.02.22,2,23,386,2844,28,294,1927,"1,88","0,98",2.6238784516129035 ,1.2163369555035128 
