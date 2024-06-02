@@ -1,0 +1,246 @@
+text_id,dateiname,fehlertyp,untertyp_fehler,satz_einfacher_text,kommentar
+3,03_cholesterin,einfache Sprache Regelfehler,bildhafte Sprache,"Die Wissenschaftler sind am Ball, um Krankheiten besser behandeln zu können.",
+4,04_mars,einfache Sprache Regelfehler,bildhafte Sprache,Neue Forschungsergebnisse sorgen für hitzige Diskussionen unter Wissenschaftlern.,
+4,04_mars,einfache Sprache Regelfehler,bildhafte Sprache,"Vielleicht gab es regional unterschiedliche Bedingungen – einige Orte könnten durchaus flüssige Gewässer beherbergt haben, während an anderen Stellen das Eis regierte.",
+5,05_mathe,einfache Sprache Regelfehler,bildhafte Sprache,Computerprogramm knackt schwieriges Mathematikrätsel,
+6,06_batterie,einfache Sprache Regelfehler,bildhafte Sprache,"Es war so, als ob sie eine Nadel in einem Heuhaufen suchen würden.",
+6,06_batterie,einfache Sprache Regelfehler,bildhafte Sprache,"Mit Computern, die selbst lernen können, können sie viel schneller gute Lösungen finden.",
+10,10_neandertaler,einfache Sprache Regelfehler,bildhafte Sprache,Forscherinnen und Forscher um Krist Vaesen von der TU Eindhoven haben das genau unter die Lupe genommen.,
+12,12_eismond,einfache Sprache Regelfehler,bildhafte Sprache,"Forscher aus Berlin haben das Eis genauer unter die Lupe genommen, das einen Ring um Saturn bildet – den E-Ring.",
+13,13_neutrinos,einfache Sprache Regelfehler,bildhafte Sprache, Aber es bleibt ein Funken Hoffnung. ,
+18,18_neutrinos,einfache Sprache Regelfehler,bildhafte Sprache,Der Stern hat keinen Brennstoff mehr und sollte eigentlich ohne viel Aufsehen dunkel werden.,
+1,01_parkinson,einfache Sprache Regelfehler,gleiche Begriffe,"Jetzt gibt es eine Computer-Hilfe, die das nutzen kann.",KI ist ein eigentsändiger Begriff
+6,06_batterie,einfache Sprache Regelfehler,gleiche Begriffe,"Ein neues Material für Akkus wurde von Forschern gefunden. Sie benutzten dafür Computer, die selbst lernen können.",KI als selbstlernende Computer
+6,06_batterie,einfache Sprache Regelfehler,gleiche Begriffe," Die Forscher haben Computer benutzt, die lernen können. ",KI als selbstlernende Computer
+6,06_batterie,einfache Sprache Regelfehler,gleiche Begriffe,Aber mit den lernenden Computern hat es nur neun Monate gedauert. ,KI als selbstlernende Computer
+9,09_mond,einfache Sprache Regelfehler,gleiche Begriffe,"Diese Erkenntnisse sind sehr wertvoll, besonders für Raumfahrer, ",Es wird zwischen Astronaut und Raumfahrer gewechselt
+13,13_neutrinos,einfache Sprache Regelfehler,gleiche Begriffe, Neutrinos ändern sich nämlich immer wieder in andere Arten von Neutrinos. ,Hier sollte man bei Sorte bleiben
+14,14_kunststoffe,einfache Sprache Regelfehler,gleiche Begriffe,In einigen Kunststoffprodukten finden sich bis zu 400 verschiedene Chemikalien.,Kunststoff und Plastik
+14,14_kunststoffe,einfache Sprache Regelfehler,gleiche Begriffe,"Forscher aus der Stadt Trondheim in Norwegen haben herausgefunden, dass in Kunststoffen über 4200 chemische Substanzen enthalten sein können, die vielleicht schädlich sind.","Leichte Sprache Fehler oder Einfache Sprache Fehler - wenn shon, dann immer Chemikalien
+"
+2,02_darmbakterien,einfache Sprache Regelfehler,Konjunktiv,"Und die Darmbakterien könnten uns wertvolle Hinweise geben, wie die Leber heilt. ",
+4,04_mars,einfache Sprache Regelfehler,Konjunktiv,"Die neuen Erkenntnisse lassen vermuten, dass der Mars früher kühler war und von Eisflächen bedeckt sein könnte – ein Bild, das eher an die heutige kanadische Insel Devon Island erinnert als an eine wasserreiche Marswelt.",
+4,04_mars,einfache Sprache Regelfehler,Konjunktiv,"Gletscherschmelzwasser, verursacht durch Vulkanaktivität, Meteoriteneinschläge oder die wechselnden Jahreszeiten, könnte die Täler geformt haben, die wir heute beobachten.","Müsste hier nicht könnten, also Plural stehen? aber wie wäre es , um den Konjunktiv zu vermeiden mit : waren vivielleicht der Grund, dies könnte grundsätzlich ein guter Baustein sein, um textlich den Konjunktiv zu minimieren."
+5,05_mathe,einfache Sprache Regelfehler,Konjunktiv,"Alhussein Fawzi von DeepMind sagt, dies könnte besser sein als alles zuvor.",
+7,07_hefe,einfache Sprache Regelfehler,Konjunktiv,Bald könnte die Hefe komplett künstlich sein.,"Leichte Sprache hier wieder Konjunktiv - man könnte scschreiben: wird die Hefe vielleicht bald, aber ich finde, dass macht den Text auch nicht viel runder oder? Sollten wir den Könnte-Konjunktiv nicht grundsätzlich als Ausnahme von der Regel akzeptieren?"
+7,07_hefe,einfache Sprache Regelfehler,Konjunktiv,Diese neue Hefeart konnte eines Tages für die Herstellung von Medikamenten oder Treibstoffen genutzt werden.,
+8,08_flächenversiegelung,einfache Sprache Regelfehler,Konjunktiv,"Dies sind wertvolle Böden, auf denen Nahrung angebaut werden könnte und die Tieren als Lebensraum dienen.",
+10,10_neandertaler,einfache Sprache Regelfehler,Konjunktiv," Könnte das an uns gelegen haben?
+",
+10,10_neandertaler,einfache Sprache Regelfehler,Konjunktiv,"Stell dir vor, es gäbe noch Neandertaler. ",
+10,10_neandertaler,einfache Sprache Regelfehler,Konjunktiv,"um nachzuvollziehen, wie die Bevölkerung der Neandertaler hätte sein können ",
+10,10_neandertaler,einfache Sprache Regelfehler,Konjunktiv,"Die Gruppe rechnete dann aus, was mit diesen Neandertalern über viele Generationen hinweg passieren könnte. ",
+10,10_neandertaler,einfache Sprache Regelfehler,Konjunktiv,Könnte das unsere Schuld sein?,
+10,10_neandertaler,einfache Sprache Regelfehler,Konjunktiv,Sie wären aufgrund ihres Pechs und harter Lebensbedingungen nach etwa 10.000 Jahren verschwunden.,
+19,19_wüste,einfache Sprache Regelfehler,Konjunktiv,"Viele dachten, dort könne kaum Leben existieren.",
+8,08_flächenversiegelung,einfache Sprache Regelfehler,Überkomplexer Begriff, da ihnen Humus fehlt,"Vielleicht ein leichter Sprache Fehler: Ein komplexes Wort wird nicht erklärt? Wollen wir eine neue Kategorie daraus machen?
+"
+16,16_lügen,einfache Sprache Regelfehler,Überkomplexer Begriff,"Spezielle Technik hat die Bewegung von Kopf, Rumpf und Armen aufgenommen.",Ich würde sagen im Original war Oberkörper leichter als Rumpf
+19,19_wüste,einfache Sprache Regelfehler,Überkomplexer Begriff,"In der Wüste gibt es minimal Wasser, und es scheint, als ob diese Bakterien schon sehr lange – vielleicht 19.000 Jahre – dort überleben.
+",
+9,09_mond,Morphologie,Genus,Das kann das LAT-Teleskop dann messen.,"Das Teleskop misst nicht, dass Gammastrahlen beim Auftreffen erzeugt werden, sondern misst die Strahlen.
+D.h. hier sollte nicht ""das kann das Teleskop dann messen"" stehen, sondern ""diese kann das Teleskop messen""."
+11,11_starship,Morphologie,Genus,SpaceX hat schon mehrere Prototypen ihres Raumschiffs getestet.,Seines?
+18,18_neutrinos,Morphologie,Genus,Sie bemerken kaum jemand und können deshalb leicht durch einen Stern hindurchkommen.,kaum jemanden
+1,01_parkinson,Morphologie,Groß- und Kleinschreibung, Ein perfektes bei 1 Punkt.,Ich glaube Adjektive in Ellipsen müssen groß geschrieben werden
+7,07_hefe,Morphologie,Kasus,"Wissenschaftler haben jetzt eine Hefe erschaffen, die zu einem großen Teil aus künstlichen Erbgut besteht. ",KünstlicheM
+12,12_eismond,Morphologie,Kasus,Eine Weltraumsonde namens Cassini hat Eis und Dampf an Enceladus' Südpol beobachtet. ,"Ich glaube ein Apostroph ist bei Genitiv im Deutschen falsch?
+"
+7,07_hefe,Morphologie,Modus,Diese neue Hefeart konnte eines Tages für die Herstellung von Medikamenten oder Treibstoffen genutzt werden.,Hier sollte wahrscheinlich könnte stehen.
+12,12_eismond,Morphologie,"Neologismus, Kompositabildung","Man denkt, dass diese Grundstoffe sich in komplexere Moleküle verwandeln könnten, und zwar an Orten, die den heißen Quellen ähneln, die wir aus den Tiefen der Erdenmeere kennen.",Ich würde sagen das heißt Erdmeer oder besser Meere auf der Erde
+20,20_neutrinomasse,Morphologie,"Neologismus, Kompositabildung",das Anti-Elektron-Neutrino. ,"Ich glaube hier kann man die Reihenfolge der Begriffe im Kompositum nicht einfach ändern. Das wäre ein neuer Fehler, aber auf welcher Ebene?"
+4,04_mars,Morphologie,Numerus,"Gletscherschmelzwasser, verursacht durch Vulkanaktivität, Meteoriteneinschläge oder die wechselnden Jahreszeiten, könnte die Täler geformt haben, die wir heute beobachten.","Müsste hier nicht könnten, also Plural stehen? aber wie wäre es , um den Konjunktiv zu vermeiden mit : waren vivielleicht der Grund, dies könnte grundsätzlich ein guter Baustein sein, um textlich den Konjunktiv zu minimieren."
+4,04_mars,Morphologie,Tempus,"Die neuen Erkenntnisse lassen vermuten, dass der Mars früher kühler war und von Eisflächen bedeckt sein könnte – ein Bild, das eher an die heutige kanadische Insel Devon Island erinnert als an eine wasserreiche Marswelt.","Genau es muss heißen, bedeckt gewesen sein könnte = ein Zeitfehler, da hier die Vergangenheit nicht genommen wurde, Zeitfehler gehören in die Grammatik also hier eine neue Kategorie"
+14,14_kunststoffe,Morphologie,Tempus,Ein Team entdeckt über 4000 gefährliche Stoffe in Plastik.,Hier stimmt die Zeitform nicht: (hat entdeckt
+8,08_flächenversiegelung,Semantik,falscher Vergleich,"einem Feld, das doppelt so groß wie ein Fußballfeld ist.",
+20,20_neutrinomasse,Semantik,falscher Vergleich,"Wenn ein Proton so groß wie eine Kirsche ist, dann ist ein Neutrino nur so groß wie ein Sandkorn.","Durchschnittliche Kirsche: 27mm Kleines Sandkorn: 0,063mm
+
+Damit sind wir bei einem Faktor von 1:500 und weit weg von einem Milliardstel, aber nice try"
+20,20_neutrinomasse,Semantik,falscher Vergleich,"Die Wissenschaftler nutzen dafür eine riesige Maschine, so lang wie ein großer Wal. ",Blauwale sind laut Wikipedia maximal 24m
+2,02_darmbakterien,Semantik,Kausalitätsfehler,"Aber es scheint, dass eher die Bakterien im Darm betroffen sind",eher die Bakterien im Darm betroffen sind
+3,03_cholesterin,Semantik,Kausalitätsfehler,"Sie ändern ein Gen, das ein bestimmtes Protein, PCSK9 genannt, steuert.",Die Produktion wird gesteuert
+3,03_cholesterin,Semantik,Kausalitätsfehler,Die Veränderung der Gene erfolgt direkt in der Leber.,"Es wird verwechselt: Früher in der Leber, jetzt über das Spritzen von Stammzellen"
+4,04_mars,Semantik,Kausalitätsfehler,"Die lange vertretene Vorstellung von einem warmen Mars beruhte auf der Annahme, dass hohe Mengen an Kohlendioxid in der Atmosphäre des Mars die schwächere Sonnenstrahlung ausgeglichen und so für milde Temperaturen gesorgt hätten. Aber dieses Bild wackelt nun.","Irgendwie ist ein bisschen der Wurm drin. Man hat sich den Mars warm vorgestellt und das dann nachträglich versucht mit dem CO2 zu begründen. Es war nicht so, dass man ausgehend vom CO2 die Hypothese eines warmen Mars entwickelt hat"
+8,08_flächenversiegelung,Semantik,Kausalitätsfehler,"Weltweit hat ein großer Teil der Böden an Fruchtbarkeit eingebüßt,","Hm ja Fruchtbarkeit kommt zuerst und dann erst der Humus? Im Originaltext geht es um die Bodenqualität, selbes Problem hinten mit der Ernte - also einmal Kausalitätsfehler und dann auch Übergeneralisieurng, da es über die Ernäherung hinaus auch um den Lebensraum von imerhin 25 Prozent aller Lebewesen geht..."
+10,10_neandertaler,Semantik,Kausalitätsfehler,Vielleicht haben wir die Neandertaler verdrängt oder haben die Vorfahren uns auch vermischt,Durch das genetische Vermischen sind die Neanderthaler nicht ausgestorben
+11,11_starship,Semantik,Kausalitätsfehler,"Unter den Herausforderungen, die SpaceX meistern muss, ist eine besondere Landetechnik: ",Die Technik wie es fällt ist nicht die zentrale Hürde
+18,18_neutrinos,Semantik,Kausalitätsfehler,"Diese Welle ist so stark, dass sie den Stern zerreißt und eine Supernova auslöst.","Ich weiß auch hier nicht, ob wir davon sprechen können, dass das die Supernova auslöst"
+18,18_neutrinos,Semantik,Kausalitätsfehler,"Kleine Teilchen lösen große Sternexplosionen aus
+","Weiß ich nicht, ob man das so sagen kann. Der grundsätzliche Prozess der Supernova wird ja nicht durch Neutrinos ausgelöst.
+Dennoch sind Neutrinos der Grund, dass sich die Schockwellen so weit verbreiten."
+1,01_parkinson,Semantik,nicht definierte Referenz,"Pearse Keane, ein Augenarzt im Moorfields Eye Hospital in London, ist Teil des Teams.","Welches Team? Hier wird nicht klar, dass es um das Forscherteam geht. "
+1,01_parkinson,Semantik,nicht definierte Referenz,"Ein schlechtes System wäre bei 0,5 Punkten.",In diesem Abschnitt fehlt die Info über den Zufall und die Interpretation der Werte
+2,02_darmbakterien,Semantik,nicht definierte Referenz,Was ist eigentlich das Mikrobiom?,
+2,02_darmbakterien,Semantik,nicht definierte Referenz,"Man konnte den Mäusen helfen, indem man ihnen die richtigen Bakterien wieder zuführte.",Kausalitätsfehler?
+2,02_darmbakterien,Semantik,nicht definierte Referenz,"Das könnte beeinflussen, wann eine Operation sinnvoll ist. ","Wie kommen wir auf OPs?
+"
+2,02_darmbakterien,Semantik,nicht definierte Referenz,Vielleicht kann auch unsere Ernährung eine Rolle spielen. ,
+5,05_mathe,Semantik,nicht definierte Referenz,"Experten überlegen, wie viele Karten man braucht, wenn es noch mehr Merkmale auf den Karten gibt.","Hier fehlte vorher die Info, was es mit den Eigenschaften der Karten und Sets auf sich hat"
+6,06_batterie,Semantik,nicht definierte Referenz,Das Wichtigste an dieser Entdeckung ist aber die neue Methode der Suche.,aber
+7,07_hefe,Semantik,nicht definierte Referenz,Es geht dabei um viel mehr als um Bier. ,"Vorher wurde nicht klar, dass es um Bierhefe geht"
+14,14_kunststoffe,Semantik,nicht definierte Referenz,"Mehr als 300 Wissenschaftler, darunter auch Martin Wagner, betonen die Wichtigkeit dieses Vertrags, um die Menge an Plastikmüll zu verringern.
+",Martin Wagner wurde vorher nie eingeführt
+17,17_intelligenz,Semantik,nicht definierte Referenz,Normalerweise liegt die Intelligenz bei 100 Punkten. Mit 120 Punkten ist man schon unter den klügsten 10 Prozent.,"Die Info mit den 120 IQ Punkten ist vor allem dann relevant, wenn man weiß, dass die meisten Leute 120 IQ Punkte präferieren"
+1,01_parkinson,Semantik,semantische Inkonsistenz,"Die KI schaut sich an, wie Bilder von einer gesunden Netzhaut aussehen sollen.","Sie lernt wie Bilder von Netzhäuten aussehen, der Clou ist aber, dass eben nicht vortrainiert ist, ob die Netzhaut gesund ist oder nicht"
+1,01_parkinson,Semantik,semantische Inkonsistenz,"So hat die KI gelernt, wie eine gesunde Netzhaut aussieht. ","Gleicher Fehler wie oben: Sie lernt nur wie eine Netzhaut aussieht und erstmal nicht, ob es gesund ist oder nicht"
+1,01_parkinson,Semantik,semantische Inkonsistenz,"Diese Programme sehen viele Beispiele und begreifen dann, was sie als nächstes tun sollen.","Sie lernen nicht, was man tut, sondern wie Daten weitergehen, also z.B. wie Netzhautbilder oder Sätze weitergehen"
+1,01_parkinson,Semantik,semantische Inkonsistenz,Sie zeigt winzige Blutgefäße in unserem Körper.,"Sie zeigt typische Blutgefäse, die in dieserkleinen Feinheit nur dort beobachtet werden können, so aber im ganzen Körper vorkommen"
+2,02_darmbakterien,Semantik,semantische Inkonsistenz,"Diese Mäuse hatten zuvor Antibiotika erhalten, die ihr Gleichgewicht der Darmbakterien noch mehr gestört haben.",
+4,04_mars,Semantik,semantische Inkonsistenz, Forschungen lassen Zweifel aufkommen:,"Neue Forschung, Forschungen passt hier nicht rein. "
+4,04_mars,Semantik,semantische Inkonsistenz,"Die neuen Erkenntnisse lassen vermuten, dass der Mars früher kühler war und von Eisflächen bedeckt sein könnte – ein Bild, das eher an die heutige kanadische Insel Devon Island erinnert ",Es sind Gletscher und nicht nur Eisflächen
+4,04_mars,Semantik,semantische Inkonsistenz," War er ein warmes, wasserreiches Land oder doch eher ein kalter, von Gletschern überzogener Planet?","Immer noch ein Planet, sem Iikonsistenz
+"
+5,05_mathe,Semantik,semantische Inkonsistenz,Das Spiel ist lustig und fordert auch das Können von Mathematikern heraus.,"Kommt im Originaltext nicht vor, hat die KI ggf. von funsearch? In jedem Fall falsch, hier wird eetwas Falsches hinzugefügt, das ist dann 2.8?"
+5,05_mathe,Semantik,semantische Inkonsistenz,"""FunSearch"" prüft, ob die Lösungen stimmen. Wenn es Fehler findet, lernt das Programm daraus und verbessert sich.","Ein anderes Programm prüft die Lösungen und gibt zurück, ob es korrekt oder falsch ist"
+6,06_batterie,Semantik,semantische Inkonsistenz, Aber mit den lernenden Computern hat es nur neun Monate gedauert.,"Es fehlt die wichtige Information; semantischer Feheler, das die KI zwar schnell war, aber der entcheidende Schritt in der Materialforschung mit der essentiellen Genauigkeit durch andere Hochleistungsrechner erst erbracht worden ist.s"
+7,07_hefe,Semantik,semantische Inkonsistenz,Forscher entwickeln eine neue Art von Hefe – halb aus dem Labor,die Hälfte des Erbguts ist künstlich
+7,07_hefe,Semantik,semantische Inkonsistenz,"Forscher haben eine Hefe entwickelt, die teilweise aus dem Labor kommt. ","Sie kommt 100% aus dem Labor, es geht nur um den Anteil der veränderten Gene"
+7,07_hefe,Semantik,semantische Inkonsistenz,"Normalerweise besitzt Hefe 16 Chromosomen, aber bei dieser neuen Hefe sind sechs ganze Chromosomen und ein Teil eines siebten künstlich hergestellt.","Es fehlt die wichtige Info, dass bei dem 8 Chromosom auch Veränderungen synthetisch durchgeführt worden sind, sonst kommt man nur auf 7 von 16 und das ist dann nicht über die Hälfte, diese Info fehlt absolut und ist wichitg, da in der Überschrift angepriesen. Also sem Kategorie, wicwichtige Info fehlt. Wichtige Info sollten wir dan nnoch konkretisieren, dafür passst dieses Beispiel recht gut mit dem fall der nicht im Text eingelösten Behauptung aus der Überschirft, journalistisch gganz schlecht, GGf lohnt sich hier auch eine neue Überkategorie = = Inhaltliche Konsistenz oder journalistische Kriterien, in diese könnten wir dan ndie Unterkategorien - fehlende wiwichtige Information, fehlende Erläuterung oder nicht erläuterrter Fachbegirff, bsp Mikrobiom , also bisher sem. Ffelehdne Information und auch falsche Information einbauen. Auch könnte hier dann die bisher im codebook unter 5 geführten Kategorien des Te Textaufbaus und der Darstellung hier subsumiert werden = Einteilung in Teaser und in zusammenfassenden Schlusssatz = so gute Erkenntisvermittlung, auch ddie passende Überschrift und Zwischenüberschriften gehörten dggf. Hier hin wie auch die Einteilung von Absätzen, etc. Glaube, so könnten wir dann die Dimension 5 rund machen??"
+8,08_flächenversiegelung,Semantik,semantische Inkonsistenz,"Wir müssen den Boden heilen, damit wir sauberes Wasser und nährstoffreiche Pflanzen haben",Eigentlich ist hier im Original von Trinkwassersicherheit nicht die Rede
+8,08_flächenversiegelung,Semantik,semantische Inkonsistenz,"In der Erde wimmelt es von Mikroorganismen – so viel, wie 15 Tonnen auf einem Feld, das doppelt so groß wie ein Fußballfeld ist.",es könnten bis zu 15 Tonnen Mikroorganismen sein - könnte und bis zu werden hier nicht übersetzt
+8,08_flächenversiegelung,Semantik,semantische Inkonsistenz,"Das passiert nicht nur in den heißen Gegenden, sondern betrifft auch Teile Europas, wie zum Beispiel in Ungarn.",Es geht um heiße Gegenden in Südeuropa und Südeuropa liegt in Europa
+9,09_mond,Semantik,semantische Inkonsistenz,"Stellen Sie sich vor, im Licht, das wir nicht mit den Augen sehen können, wäre der Mond superhell.","Irgendwie fehlt mir hier die Logik der Erklärung: Man muss es sich nicht vorstellen, der Mond ist im Bereich der Gammastrahlen tatsächlich hell."
+10,10_neandertaler,Semantik,semantische Inkonsistenz,"Sie benutzten Computer, um nachzuvollziehen, wie die Bevölkerung der Neandertaler hätte sein können – mal waren es nur 50, mal waren es sogar 5000.","Hier geht es nicht um die Bevölkerung, sondern um eine Modellierung von kleinen Gruppen und eine Studie, wie die sich entwickelt haben"
+13,13_neutrinos,Semantik,semantische Inkonsistenz,Was bedeutet das für ihre Ideen?,"Fehler Halu, es geht nicht um Ideeen, sondern um ein spezielles spekulatives Weltbild, also einfach falsch im Halu Sinne
+"
+15,15_corona,Semantik,semantische Inkonsistenz,"Das RKI guckt also auch, wann die Ansteckungen wirklich passiert sind.","Nein, weil das Ansteckungsdatum unbekannt ist, wird ersatzweise das Auftreten der ersten Symptome genutzt"
+15,15_corona,Semantik,semantische Inkonsistenz,"Eine berücksichtigt die letzten vier Tage, die andere die letzten sieben Tage. ","Es geht nicht um die letzten Tage, sondern insgesamt den Zeitraum"
+18,18_neutrinos,Semantik,semantische Inkonsistenz,"Normalerweise könnte man denken, dass so ein schwerer, dichter Kern nicht explodieren kann. Aber dennoch passiert es.
+","Ich glaube bei einer Supernova explodiert der Kern nicht. Stattdessen gibt es eine gewaltige Druckwelle, die die verbleibenden äußeren Schichten ins Weltall schleudert
+"
+18,18_neutrinos,Semantik,semantische Inkonsistenz,"Sie sorgen dafür, dass schwere Sterne nicht einfach ausgehen, sondern mit einem großen Knall enden.","Sie zeigen ies nicht, sondern liefern eiein eBegründung, die Beobachtung ist schon längst gemadcht, und die Sterne gehen auch nicht aus, sondern strahlen keine Stralung oder Materie mehr ab, hier also zweimal Halu Fehler"
+20,20_neutrinomasse,Semantik,semantische Inkonsistenz,"Wenn ein Proton so groß wie eine Kirsche ist, dann ist ein Neutrino nur so groß wie ein Sandkorn.","Es geht nicht um Größenverhältnisse, sondern um Masseverhältnisse"
+20,20_neutrinomasse,Semantik,semantische Inkonsistenz,"Es geht darum zu beobachten, wie ein Gas namens Tritium zerfällt. ",keine Ahnung ob Tritium in dem Versuch in gasförmigem Zustand ist.
+1,01_parkinson,Semantik,Bedeutungsverschiebung,"Auch bei anderen Erkrankungen wie Herzinfarkt, Herzmuskelschwäche, Schlaganfall und Parkinson schnitt RETFound besser ab als andere KI-Systeme",Herzmuskelschwäche ist nicht das gleiche wie Herzversagen 
+2,02_darmbakterien,Semantik,Bedeutungsverschiebung,"Die Forscher haben Mäuse beobachtet, bei denen das Mikrobiom durcheinander war.",durcheinander
+4,04_mars,Semantik,Bedeutungsverschiebung,"Man dachte, Flüsse hätten das Marsgestein geformt. ","Nicht das Marsgestein wurde geformt, sondern die Flussbetten"
+5,05_mathe,Semantik,Bedeutungsverschiebung,"Ein kluges Computerprogramm macht nun Fortschritte bei einem mathematischen Rätsel des Spiels ""Set"".",Eigentlich sollte KI ein eigenstehender Begriff sein und spätestens hier auftauchen
+5,05_mathe,Semantik,Bedeutungsverschiebung,"Es ist so gemacht, dass es in vielen mathematischen Bereichen und in der Datenverarbeitung helfen kann.",Datenverarbeitung ist nicht äquivalent zu Informatik
+5,05_mathe,Semantik,Bedeutungsverschiebung,"Es nutzt ein spezielles Computerverfahren, um dann selbst Programme zu entwickeln.","KI wäre hier das Synonym, bzw. Large Language Model"
+6,06_batterie,Semantik,Bedeutungsverschiebung,"Ein neues Material für Akkus wurde von Forschern gefunden. Sie benutzten dafür Computer, die selbst lernen können.",KI als selbstlernende Computer
+6,06_batterie,Semantik,Bedeutungsverschiebung," Die Forscher haben Computer benutzt, die lernen können. ",KI als selbstlernende Computer
+6,06_batterie,Semantik,Bedeutungsverschiebung,Aber mit den lernenden Computern hat es nur neun Monate gedauert. ,KI als selbstlernende Computer
+6,06_batterie,Semantik,Bedeutungsverschiebung,"Mit Computern, die selbst lernen können, können sie viel schneller gute Lösungen finden.",KI
+7,07_hefe,Semantik,Bedeutungsverschiebung,"Sie wird in wichtigen wissenschaftlichen Berichten, wie zum Beispiel in ""Cell"", beschrieben.",Ein wissenschaftlicher Bericht ist keine Forschungszeitschrift
+7,07_hefe,Semantik,Bedeutungsverschiebung,Das Forscherteam hat viele Hefezellen mit den neuen Chromosomen produziert. ,"Hieranstelle von neu müssten hier die künstlichen Chromosomen stehen, wie zu Beginn des Textes, also eein sem Synonymverschiebungsfehler oder? Gilt dann für alle neuen folgenden Chromosomen im Abscnitt..."
+7,07_hefe,Semantik,Bedeutungsverschiebung,"Wenn sich diese Hefezellen vermischten, entstanden Nachkommen mit noch mehr neuen Chromosomen. ",
+8,08_flächenversiegelung,Semantik,Bedeutungsverschiebung,"Wir müssen den Boden heilen,","Sem. falsche Angabe, es geht hier nicht um heilen des Bodens, sondern darumm, ihn zu schützen bzw. zu bewahren, damit er sich erholen kann. Sem Inkosistenz passt hier nicht, da das Verb heilen einfach falsch ist."
+9,09_mond,Semantik,Bedeutungsverschiebung,"Es kann die Gammastrahlen festhalten, die der Mond aussendet.",Festhalten könnte hier auch einfangen bedeuten
+9,09_mond,Semantik,Bedeutungsverschiebung,"Kosmische Strahlung ist ein Strom aus winzigen Teilchen, hauptsächlich Protonen, die aus dem Weltraum auf uns zukommen, von weit entfernten Orten, vielleicht von Sternen, die explodiert sind.","Vielleicht soll hier ein Beispiel einleiten, es klingt aber eher nach epistemischer Unsicherheit"
+9,09_mond,Semantik,Bedeutungsverschiebung,"Stellen Sie sich vor, Sie könnten Strahlen sehen, die für unsere Augen unsichtbar sind, wie Gammastrahlen. Der Mond würde plötzlich sehr hell leuchten.","Vielleicht soll hier ein Beispiel einleiten, es klingt aber eher nach epistemischer Unsicherheit"
+10,10_neandertaler,Semantik,Bedeutungsverschiebung,Sie waren wie frühe Menschen und sehr geschickt und stark.,Sind robust und stark hier das selbe?
+10,10_neandertaler,Semantik,Bedeutungsverschiebung,Sie wären aufgrund ihres Pechs und harter Lebensbedingungen nach etwa 10.000 Jahren verschwunden.,Pech ist nicht das gleiche wie stochastische Prozesse
+12,12_eismond,Semantik,Bedeutungsverschiebung,Eine Weltraumsonde namens Cassini hat Eis und Dampf an Enceladus' Südpol beobachtet. ,"Nicht nnur beobachtet, sondern eieingefangen und mit auf die Erde gebracht. Krasser Fehler von Fehlen einer wiwichtigen Information
+"
+12,12_eismond,Semantik,Bedeutungsverschiebung,"Die neuesten Forschungen aber haben kleinere Moleküle nachgewiesen, die sich in Wasser auflösen und Teil von lebenswichtigen Reaktionen werden können. Diese Moleküle, wie zum Beispiel Azetaldehyd oder Methylamin, sind einfacher als die großen organischen Moleküle, die sich nicht gut in Wasser lösen.",Ist auflösen und wasserlöslich sein wirklich das selbe
+13,13_neutrinos,Semantik,Bedeutungsverschiebung,"Bald starten neue Experimente, die noch genauer hinschauen werden.","Untersuchen nicht hinschauen, einfach ein falsches sem Synonymverschiebung
+"
+14,14_kunststoffe,Semantik,Bedeutungsverschiebung,Viel mehr gefährliche Chemikalien in Plastik als gedacht,ist nicht gleich bedenklich
+15,15_corona,Semantik,Bedeutungsverschiebung,"Momentan sind es vor allem kleine, örtliche Ausbrüche, die diese hohe Zahl ausmachen",verursachen
+16,16_lügen,Semantik,Bedeutungsverschiebung,"Manchmal erscheint es einfacher, nicht die Wahrheit zu sagen.
+","Hier geht es im Originaltext eigentlich um die geistige Anstrengung der Lüge. Bin mir nicht sicher, ob das hier korrekt ausgedrückt ist
+"
+17,17_intelligenz,Semantik,Bedeutungsverschiebung,Bei Herzensangelegenheiten sieht es jedoch anders aus.,Emotionale Kompetenzen sind nicht Herzensangelegenheiten
+17,17_intelligenz,Semantik,Bedeutungsverschiebung,3. Herzensbildung zählt meist mehr als der IQ:,"Auch hier ist emotionale Intelligenz falsch umschrieben
+"
+18,18_neutrinos,Semantik,Bedeutungsverschiebung,Am Lebensende schwerer Sterne sorgen kleine Teilchen für eine riesige Explosion.,"Es geht nicht um schwere Sterne, sondern um dichte Sterne. Das ist für supernovae entscheidend, also hier Halu"
+18,18_neutrinos,Semantik,Bedeutungsverschiebung,"Diese Welle ist so stark, dass sie den Stern zerreißt und eine Supernova auslöst.","Ich würde auch sagen, dass es nicht den Stern zerreißt. Es bleibt ja ein Kern bei der Supernova zurück und es geht nur um das gewaltige Abstoßen äußerer Schichten"
+18,18_neutrinos,Semantik,Bedeutungsverschiebung,Sie bemerken kaum jemand und können deshalb leicht durch einen Stern hindurchkommen.,"Ich weiß nicht, ob niemanden bemerken eine gute Beschreibung für fehlende oder geringe Wechselwirkung mit anderer Materie ist. 
+"
+18,18_neutrinos,Semantik,Bedeutungsverschiebung,"Aber was Forscher wirklich überzeugt, sind richtige Belege.",Ich finde das Konzept von Belegen hier schwierig. Vielleicht besser: Beobachtungsdaten? 
+8,08_flächenversiegelung,Semantik,Bedeutungsverschiebung,"Der Untergrund, auf dem wir leben, ist nicht mehr gesund. ",Ich finde es geht ihr tatsächlich  um Boden.
+2,02_darmbakterien,Semantik,Bedeutungsverschiebung,Unsere Leber kann nach einem Verlust wieder nachwachsen. ,Wenn ein Teil verloren geht!
+2,02_darmbakterien,Semantik,Bedeutungsverschiebung,Dabei spielen Bakterien in unserem Darm eine wichtige Rolle.,Darm
+2,02_darmbakterien,Semantik,Bedeutungsverschiebung,"Wenn ein Teil der Leber verloren geht, kann sie oft in nur wenigen Wochen wieder nachwachsen. ",ein Teil
+2,02_darmbakterien,Semantik,Bedeutungsverschiebung,Auch bei menschlichen Leberzellen sah man ähnliche Ergebnisse.,"Enzym wird weggelassen, die menschlichen Zellen kommen nicht mit Fettsäuren in die Petrischale"
+2,02_darmbakterien,Semantik,Bedeutungsverschiebung,"Aber vielleicht finden wir bald heraus, welche Bakterien gerade für die Leber besonders gut sind. ",Bakterienzusammensetzungen
+3,03_cholesterin,Semantik,Bedeutungsverschiebung,"Forscher haben eine Methode namens ""Base Editing"" entwickelt.",Die Forscher nutzen eine kürzlich entwickelte Methode
+3,03_cholesterin,Semantik,Bedeutungsverschiebung,"Forscher denken darüber nach, ""Base Editing"" auch für andere Krankheiten einzusetzen, zum Beispiel bei Stoffwechsel- oder Augenleiden. ",Augenleiden
+4,04_mars,Semantik,Bedeutungsverschiebung,"Bislang war die Meinung verbreitet, dass der Mars einst, vor rund 3,5 Milliarden Jahren, warm war und reichlich Wasser hatte. ","Es geht um Feuchtigkeit und fließendes Wasser, nicht um Wasser generell"
+5,05_mathe,Semantik,Bedeutungsverschiebung,"Pushmeet Kohli von Google DeepMind sagt, dass so ein Programm noch nie zuvor Mathematikern so sehr geholfen hat. ",So ein Programm bedeutet hier ein an LLMs angelehntes KI-Programm
+5,05_mathe,Semantik,Bedeutungsverschiebung,Das ist bei vielen anderen Computerprogrammen nicht so.,"Nicht bei anderen Computerprogrammen, sondern speziell bei KI"
+6,06_batterie,Semantik,Bedeutungsverschiebung,"Die Akkus, die wir jetzt benutzen, wurden über 20 Jahre entwickelt.","Nicht alle Akkus, sondern Lithium Ionen Akkus"
+6,06_batterie,Semantik,Bedeutungsverschiebung,"Der neue Stoff könnte Lithium ersetzen, das teuer und nicht gut für die Umwelt ist. ",Lithium reduzieren
+7,07_hefe,Semantik,Bedeutungsverschiebung,"Normalerweise besitzt Hefe 16 Chromosomen, aber bei dieser neuen Hefe sind sechs ganze Chromosomen und ein Teil eines siebten künstlich hergestellt.","Nur Bierhefe hat 16 Chromosomen
+Saccharomyces paradoxus hat zum Beispiel 17"
+8,08_flächenversiegelung,Semantik,Bedeutungsverschiebung,"Weltweit hat ein großer Teil der Böden an Fruchtbarkeit eingebüßt,","Hm ja Fruchtbarkeit kommt zuerst und dann erst der Humus? Im Originaltext geht es um die Bodenqualität, selbes Problem hinten mit der Ernte - also einmal Kausalitätsfehler und dann auch Übergeneralisieurng, da es über die Ernäherung hinaus auch um den Lebensraum von imerhin 25 Prozent aller Lebewesen geht..."
+9,09_mond,Semantik,Bedeutungsverschiebung, die bald wieder zum Mond oder zum Mars fliegen möchten.,"Mars ist nur vielleicht, aber zum Mond ist eine Mission geplant."
+10,10_neandertaler,Semantik,Bedeutungsverschiebung,"Jean-Jacques Hublin vom Max-Planck-Institut sagt, dass die heutigen Menschen schon andere Arten verdrängt haben.","Eigentlich sagt er, dass wir andere Menschenarten ausgerottet haben"
+12,12_eismond,Semantik,Bedeutungsverschiebung,"Dort hat man Hinweise entdeckt, die darauf hindeuten, dass es vielleicht Leben geben könnte.","Es gibt könnte Aminosäuren geben, aber selbst deren Existenz impliziert nicht die Existenz von Leben"
+13,13_neutrinos,Semantik,Bedeutungsverschiebung,Die würden noch weniger mit unserer gewöhnlichen Materie zu tun haben.,Ich denke hier kann man schon von Atomkernen sprechen
+13,13_neutrinos,Semantik,Bedeutungsverschiebung,Die würden noch weniger mit unserer gewöhnlichen Materie zu tun haben.,Zu tun haben ist etwas anderes als interagieren.
+14,14_kunststoffe,Semantik,Bedeutungsverschiebung,Über viele wissen wir fast nichts ,Nichts im Bezug auf Toxikologie
+14,14_kunststoffe,Semantik,Bedeutungsverschiebung,Plastik kann Umwelt und Tiere schädigen. ,Eigentlich geht es um Abbauprodukte von Plastik
+15,15_corona,Semantik,Bedeutungsverschiebung,"Die Sieben-Tage-Zahl schwankt weniger und gibt uns ein besseres Bild von der Verbreitung des Virus.
+","Jein, es gibt uns ein besseres Bild vom langfristigen Infektionsgeschehen, aber mit dem Nachteil, dass eine Glättung stattfindet und somit akute Entwicklungen  weniger gut sichtbar sind
+"
+18,18_neutrinos,Semantik,Bedeutungsverschiebung, Manchmal treffen Neutrinos auf die winzigen Bestandteile von Atomen im Stern. ,"Es geht an dieser Stelle nur um die Atome, die weiter außen sind.
+"
+7,07_hefe,Semantik,Bedeutungsverschiebung,Jedes Chromosom musste sorgfältig überprüft werden.,"Eigentlich sagen sie, dass jede Hefezelle überprüft werden muss, nicht jedes Chromosom."
+8,08_flächenversiegelung,Semantik,Bedeutungsverschiebung,Zu viel Bauarbeit und intensive Landwirtschaft schaden ihm,"Bauarbeit ist nur ei nTiel der Flächenversiegelung, das geht ja auch durch Golfplätze oder ErosErosion etc. Also hier eine Untergeneralisierung?
+"
+1,01_parkinson,Semantik,wichtige Aussage fehlt,"Diese nennt sich RETFound und kann viele Krankheiten aufspüren, indem sie Aufnahmen von der Netzhaut anschaut.","Es fehlt, dass auch Risiken erkannt werden können"
+1,01_parkinson,Semantik,wichtige Aussage fehlt,Die Netzhaut ist sehr interessant. ,für was interessant? Für die Gesundheit
+3,03_cholesterin,Semantik,wichtige Aussage fehlt,Die Forscher nutzen eine kürzlich entwickelte Methode,Base Editing ist noch nicht klinisch zugelassen
+3,03_cholesterin,Semantik,wichtige Aussage fehlt,Dort hat sie den Cholesterinspiegel erfolgreich gesenkt. ,Cholesterinspiegel wird stark! 81% gesenkt
+4,04_mars,Semantik,wichtige Aussage fehlt,Ein Forschungsteam hat alte Marstäler untersucht und die Daten mit ähnlichen Landschaftsformen auf der Erde verglichen.,"Die Täler bleiben ja alt auch wenn die Aufnahmen neu und aktuell sind. Aber der Fehler ist zu sehen in: sem. Wewwesentliche Information nicht benannt, nämlich die neuen Aufnahmen, die all die Annahmen und neuen Erkenntnisse erst ermöglichen bzw. Zweifel an der warmen Wsserwelt ins Spiel bringen"
+4,04_mars,Semantik,wichtige Aussage fehlt, Doch die Studienergebnisse von Grau Galofre und ihrem Team bringen Unsicherheit in diese Überzeugung. ,"Die Formllierung ist nicht konkret genug: Die Forschungsergebnisse verursachen weitere Zweifel oder führen zu weiteren Zweifeln in den bisherigen Annahmen - nicht Unsicherhieten, denn hier fehlt das Objekt der Unsicherhiten - ich würded also hier einen Syntaxfehler aannehmen, mit einem fehlenden Objekt gepaart mit einer wichtigen fehlenden sem. Information = 2.7. das wiegt sogar noch schwerer als der Syntax, da man auch Objekte ja immamanchmal bbei solch langen Sätzen wo anders erblicken kann und dann ist ddie Trias aus Subjekt Objekt Prädikat der Satzglieder komplett und es liegt kein Syntaxfehler vor."
+5,05_mathe,Semantik,wichtige Aussage fehlt,elfen kann. Über diese Entdeckung,"Mir fehlt, dass es um Kombinatorik geht. Kombinatorik, also Sets (genau wie der Name des Spiels auch)"
+5,05_mathe,Semantik,wichtige Aussage fehlt,Bernardino Romera-Paredes hat dazu gesagt:,"Wer soll das sein? Hier fehlt die Referenz, dass er bei Deepmind ist"
+5,05_mathe,Semantik,wichtige Aussage fehlt,"In diesem Spiel gibt es 81 Karten, und Spieler müssen daraus Sets finden. ",Was ist ein Set?
+5,05_mathe,Semantik,wichtige Aussage fehlt,"Er hofft, dass Computer dazu beitragen, unsere Arbeit zu verbessern und nicht einfach nur Aufgaben von uns zu übernehmen.","Hier fehlt der Ausdruck des Kraftverstärkers also das Mensch u nd Maschiine dann zusammen mehr wissentschaftliche Kraft haben, würde hier eine fehlende wichtige sem Aussage bemängeln?"
+6,06_batterie,Semantik,wichtige Aussage fehlt,Früher hätte so eine Suche viele Jahre oder sogar Jahrzehnte gedauert.,Entwicklung war teuer
+6,06_batterie,Semantik,wichtige Aussage fehlt,Das ist ein riesiger Fortschritt.,"Es war nicht eine KI, sondern ein mehrstufiger Prozess"
+6,06_batterie,Semantik,wichtige Aussage fehlt,Die Wissenschaftler untersuchen jetzt einen besonderen Stoff. ,Es ist Natrium
+6,06_batterie,Semantik,wichtige Aussage fehlt,"Der neue Stoff könnte Lithium ersetzen, das teuer und nicht gut für die Umwelt ist. ",Knappheit von Lithium
+6,06_batterie,Semantik,wichtige Aussage fehlt,"Das könnte uns in der Zukunft bei vielen Problemen helfen.
+",Der Stoff könnte sich noch als unbrauchbar erweisen.
+7,07_hefe,Semantik,wichtige Aussage fehlt,"Nili Ostrov ist der Meinung, dass das Sc2.0-Projekt große Chancen für die Biologie bringt.","Es wird nicht klar, wer der Mensch ist und weshalb er Autorität hat, etwas zu dieser Angelegenheit zu sagen"
+8,08_flächenversiegelung,Semantik,wichtige Aussage fehlt,Manchmal verwandelt sich gesunder Boden in Wüste. ,Warum verwandeln sich Böden in Wüsten
+9,09_mond,Semantik,wichtige Aussage fehlt,"Zwei Forscher aus Italien, Mario Nicola Mazziotta und Francesco Loparco, erforschen diese Helligkeit, um zu verstehen, wie kosmische Strahlung funktioniert.",Sie erforschen genau genommen nur den hochenergetischen Teil der kosmischen Strahlung.
+10,10_neandertaler,Semantik,wichtige Aussage fehlt,"Es gibt Wissenschaftler, die denken, dass wir, die Menschen, die heute leben, damals besser in einigen Dingen waren.","Als die Neandertaaler, hier fehlt also sem eine wichtige Information"
+11,11_starship,Semantik,wichtige Aussage fehlt,Bei früheren Versuchen endeten diese meist in großen Explosionen. ,vier vorherige Tests sind gescheitert
+11,11_starship,Semantik,wichtige Aussage fehlt,"Fast wäre alles perfekt gewesen, aber nach der Landung fing ein kleiner Teil des Starships Feuer. ","Es ist unklar, ob das kurz vorher oder nach der Landung passiert ist."
+12,12_eismond,Semantik,wichtige Aussage fehlt,"Früher wurden bereits komplexe organische Moleküle auf Enceladus entdeckt, aber sie konnten nicht zeigen, ob im Ozean des Mondes Leben entstehen kann. ","Es geht hier um Größere und Komplexere, da später die kleineren Molekühle ins Spiel kommen , muss hier auch das adj. Größere fallen - Also Fehler Sem. Wichtige Information nicht gegeben.
+"
+12,12_eismond,Semantik,wichtige Aussage fehlt,"Die neuesten Forschungen aber haben kleinere Moleküle nachgewiesen, die sich in Wasser auflösen und Teil von lebenswichtigen Reaktionen werden können. Diese Moleküle, wie zum Beispiel Azetaldehyd oder Methylamin, sind einfacher als die großen organischen Moleküle, die sich nicht gut in Wasser lösen.","Nur Dinge, die im Wasser löslich sind, können an Vielfältigen Reaktionen teilnehmen. Das macht die neu gefundenen Moleküle besonders."
+12,12_eismond,Semantik,wichtige Aussage fehlt,"Früher wurden bereits komplexe organische Moleküle auf Enceladus entdeckt, aber sie konnten nicht zeigen, ob im Ozean des Mondes Leben entstehen kann. ",Es geht darum welche Reaktionen ablaufen können
+13,13_neutrinos,Semantik,wichtige Aussage fehlt,"Wenn es sterile Neutrinos gäbe, würden sie weniger Neutrinos messen, die aus der Richtung der Erde kommen.","Hier fehlt die gesamte Erklärungskette, warum man das denkt"
+14,14_kunststoffe,Semantik,wichtige Aussage fehlt,"Das nächste Treffen findet in Ottawa, Kanada, statt.",Es fehlt der Bezug zur UN
+14,14_kunststoffe,Semantik,wichtige Aussage fehlt,Vergangene Berichte sprachen von etwa 13.000 Chemikalien. ,"Wichtige Info fehlt, hier der Gezug zu in diesem Themenfeld der Kunststofe o.ä
+"
+15,15_corona,Semantik,wichtige Aussage fehlt,"Das Virus breitet sich schneller aus, aber ein Lockdown ist nicht geplant. ","Welches? Wem wichtige Info fehlt
+"
+15,15_corona,Semantik,wichtige Aussage fehlt,"Das Virus breitet sich schneller aus, aber ein Lockdown ist nicht geplant. ",Schneller als wann?
+15,15_corona,Semantik,wichtige Aussage fehlt,Damals sanken die Neuinfektionen von täglich über 5500 auf 171.,"Früher hieß es, dass wir R unbedingt unter 1 halten müssen. Jetzt sieht man das anders"
+16,16_lügen,Semantik,wichtige Aussage fehlt,Bei einfachen Lügen passierte das weniger oft.,"Hier fehlt, dass beim reinen Verneinen sogar mehr Asynchronität besteht als bei wahren Aussagen"
+17,17_intelligenz,Semantik,wichtige Aussage fehlt,"Wenn wir komplexe Lügen erzählen, fällt es uns schwer, unsere Körpersprache zu beherrschen. Einfache Lügen können wir besser kontrollieren. Aber selbst die Forscher konnten kein eindeutiges Zeichen finden, das immer beim Lügen auftritt.","Wie sehr die Versuchspersonen ihr gegenüber spiegeln, liegt nicht an der Lüge oder Wahrheit, sondern daran, wie viel geistige Anstrengung sie aufwenden müssen"
+17,17_intelligenz,Semantik,wichtige Aussage fehlt,"Hier ist es für viele in Ordnung, wenn der Partner hohe Werte erreicht. ",Leute wünschen sich eine hohe Intelligenz. Diese ist sogar wichtiger als der IQ
+17,17_intelligenz,Semantik,wichtige Aussage fehlt,"Männer vermuten, dass ihre Partnerin sechs IQ-Punkte mehr hat, Frauen schätzen ihren Partner auf acht Punkte mehr.","Hier fehlt eine Präzisierung, nämlich 6 Punkte als der Partner tatsächlich hat. Es könnte auch heißen, dass es 6 Punkte mehr sind als man selbst hat."
+19,19_wüste,Semantik,wichtige Aussage fehlt,Forscher finden in der trockenen Atacama-Wüste überraschend viele kleine Lebewesen tief im Boden.,"Es geht um die heißeste Wüste der Welt
+"
+19,19_wüste,Semantik,wichtige Aussage fehlt,"Diese bevorzugen es, in Gips zu leben.","Sie bevorzugen Gips, weil er eine Wasserquelle ist
+"
+20,20_neutrinomasse,Semantik,wichtige Aussage fehlt,"Diese Entdeckung veröffentlichten sie in einer Zeitschrift, die ""Nature Physics"" heißt.","Die Fortschritte kommen durch eine extrem feine Messapperatur und hervorragende Kontrolle von Störfaktoren
+"
+20,20_neutrinomasse,Semantik,wichtige Aussage fehlt,"Aber warum ist das so wichtig? Neutrinos sind überall. Sie kommen von der Sonne und anderen Sternen und durchdringen sogar uns, ohne dass wir es bemerken. ","Ich fifinde es auch wichtig, dass die Neutrinos keine elektrische Ladung ahben. Daher heißen sie ja auch so und komkommen überall ohne Interaktion durch - sollte dies als wichtige Information als Sem noch rein?"
+20,20_neutrinomasse,Semantik,wichtige Aussage fehlt,"Das ist sehr leicht!
+","Es gibt noch weitere Forschung, um die Masse genauer zu bestimmen"
+20,20_neutrinomasse,Semantik,wichtige Aussage fehlt,"Diese Entdeckung veröffentlichten sie in einer Zeitschrift, die ""Nature Physics"" heißt.",Die Fortschritte kommen durch eine extrem feine Messapperatur und hervorragende Kontrolle von Störfaktoren
+20,20_neutrinomasse,Semantik,wichtige Aussage fehlt,"Anhand der Energie des Elektrons versuchen sie, das Gewicht des Neutrinos herauszufinden","Hier fehlt  das Konzept der Energieerhaltung, was überhaupt erklärt, warum man das  Elektron vermessen kann
+"
+20,20_neutrinomasse,Semantik,wichtige Aussage fehlt,"Das nennt man Neutrino-Oszillation und das beweist, dass sie ein kleines Gewicht haben.
+","Warum bedeutet die Oszillation, dass es eine Masse geben muss"
+1,01_parkinson,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,"""Die KI lernt viel, indem sie viele Bilder betrachtet. Sie merkt sich, wie eine gesunde Netzhaut auszusehen hat.""",
+1,01_parkinson,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,Man kann die KI nehmen und sie mit eigenen Bildern verbessern.,
+2,02_darmbakterien,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,"Nicht alle Bakterien werden durch Antibiotika getötet, sagt Anna Sichler, die auch an der Studie beteiligt war.",
+2,02_darmbakterien,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,"Wir kennen das Mikrobiom noch nicht ganz, so Janssen. ",
+3,03_cholesterin,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,Aber wir müssen noch weiterforschen. ,
+5,05_mathe,Syntax,falsche oder fehlende Kennzeichnung direkter Rede, Das Programm bringt uns neue Denkansätze. ,Der beliebte Fehler der indirekteen Rede bzw. die „ „ fehlen
+5,05_mathe,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,Das erklärt Mathematiker Jordan Ellenberg.,
+7,07_hefe,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,"Die Forschung hilft uns auch zu verstehen, wie Hefe funktioniert. Das erzählt uns der Biologe Jef Boeke aus New York.",
+7,07_hefe,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,"Diese neuen Hefen konnten überleben und sich weiter vermehren, berichtet Boeke.",
+7,07_hefe,Syntax,falsche oder fehlende Kennzeichnung direkter Rede,"Das wird noch dauern, sagt Boeke.",
+4,04_mars,Syntax,Komma,"Bislang war die Meinung verbreitet, dass der Mars einst, vor rund 3,5 Milliarden Jahren, warm war und reichlich Wasser hatte. ",Kein Komma nach einst
+6,06_batterie,Syntax,Satzstellung,Aber man sollte noch nicht zu früh sich freuen.,
+10,10_neandertaler,Syntax,Satzstellung,Vielleicht haben wir die Neandertaler verdrängt oder haben die Vorfahren uns auch vermischt,
