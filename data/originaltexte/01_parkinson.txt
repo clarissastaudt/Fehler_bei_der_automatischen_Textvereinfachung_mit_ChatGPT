@@ -1,0 +1,30 @@
+Überschrift: KI erkennt Augenkrankheiten und Parkinson anhand von Netzhautbildern
+
+Teaser: Die Netzhaut ist ein Fenster zur menschlichen Gesundheit. Doch oft fehlt das Wissen, die Scans korrekt zu interpretieren. Ein neues KI-Modell liefert überraschend gute Ergebnisse.
+
+Ein internationales Forschungsteam hat ein Verfahren auf der Basis von künstlicher Intelligenz (KI) entwickelt, das in der Lage ist, anhand von Bildern der menschlichen Netzhaut verschiedene Erkrankungen zu diagnostizieren und das Risiko vorherzusagen – von Augenleiden über Herzversagen bis hin zur Parkinsonkrankheit. Das Team um Erstautor Yukun Zhou vom University College London berichtet davon im Fachmagazin »Nature«.
+
+KI-Tools wurden schon früher darauf trainiert, Krankheiten anhand von Netzhautbildern zu erkennen. Das Besondere an dem neuen Verfahren namens RETFound ist, dass es auf der Grundlage einer Methode entwickelt wurde, die als selbstüberwachtes Lernen bekannt ist. Das bedeutet, dass die Forscher nicht jedes der 1,6 Millionen Netzhautbilder, die für das Training verwendet wurden, vorab analysieren und sie beispielsweise als »normal« oder »nicht normal« einstufen mussten. Solche Verfahren sind zeitaufwändig und teuer und werden bei der Entwicklung der meisten Standardmodelle für maschinelles Lernen benötigt.
+
+Stattdessen verwendeten die Wissenschaftler eine Methode, die derjenigen ähnelt, mit der große Sprachmodelle wie ChatGPT trainiert werden. Große Sprachmodelle nutzen unzählige von Menschen erstellte Textbeispiele, um zu lernen, wie das nächste Wort in einem Satz aus dem Kontext der vorangegangenen Wörter vorhergesagt werden kann. Auf die gleiche Art und Weise nutzt RETFound eine Vielzahl von Netzhautfotos, um zu lernen, wie fehlende Bildteile aussehen sollten.
+
+»Im Zuge der Analyse von Millionen Bildern lernt das Modell, die typischen Merkmale einer Netzhaut zu erkennen«, sagt Pearse Keane, Augenarzt am Moorfields Eye Hospital in London und Koautor der Studie. Dies bildet den Eckpfeiler des Verfahrens und klassifiziert es als ein so genanntes Basismodell. Das bedeutet, dass es für viele Aufgaben angepasst werden kann.
+
+Unterüberschrift: Ein Fenster zur menschlichen Gesundheit
+
+Die Netzhaut eines Menschen kann ein Fenster zu dessen Gesundheit sein, denn sie ist der einzige Teil des Körpers, auf dem das Kapillarnetz, ein aus allerfeinsten Blutgefäßen bestehendes Gewebe, direkt sichtbar ist. »Wenn Sie an einer Herz-Kreislauf-Erkrankung wie Bluthochdruck leiden, die potenziell alle Blutgefäße in Ihrem Körper betrifft, können wir das direkt auf Netzhautbildern erkennen«, sagt Keane.
+
+Zudem ist die Netzhaut eine Erweiterung des zentralen Nervensystems und weist Ähnlichkeiten mit dem Gehirn auf, was wiederum bedeutet, dass Netzhautbilder auch zur Beurteilung von Nervengewebe verwendet werden können. »Das Problem ist, dass viele Ärztinnen und Ärzte nicht über das nötige Fachwissen verfügen, um diese Scans zu interpretieren«, sagt Pearse Keane. »Hier kommt die KI ins Spiel.«
+
+Nachdem sie RETFound mit rund 1,6 Millionen unklassifizierten Netzhautbildern trainiert hatten, konnten Keane und seine Kollegen eine kleine Anzahl klassifizierter Bilder einfügen – beispielsweise 100 Netzhautbilder von Menschen, die an Parkinson erkrankt waren, und 100 von Menschen, bei denen dies nicht der Fall war –, um dem Modell bestimmte Krankheitsmerkmale beizubringen. Nachdem das Modell anhand aller nicht beschrifteten Bilder gelernt hatte, wie eine Netzhaut im gesunden Zustand aussehen sollte, war es anschließend in der Lage, die mit einer Krankheit verbundenen Netzhautmerkmale zu identifizieren.
+
+Das System zeigte gute Leistungen bei der Erkennung von Augenkrankheiten wie etwa der diabetischen Retinopathie. Auf einer Skala, auf der 0,5 für ein Modell steht, dessen Prognosen nicht besser sind als der Zufall, und 1 für ein perfektes Modell, das jedes Mal die korrekte Vorhersage trifft, erreichte RETFound für diabetische Retinopathie je nach verwendetem Datensatz Werte zwischen 0,822 und 0,943. Bei der Vorhersage des Risikos für systemische Krankheiten wie Herzinfarkt, Herzversagen, Schlaganfall und Parkinson war die Gesamtleistung zwar begrenzt, aber immer noch besser als die anderer KI-Modelle.
+
+Unterüberschrift: Auf andere Bildgebungsverfahren erweiterbar?
+
+RETFound sei eine der wenigen erfolgreichen Anwendungen eines Basismodells in der medizinischen Bildgebung, sagt Xiaoxuan Liu, die an der University of Birmingham verantwortungsvolle Innovationen im Bereich der KI erforscht und nicht an der Entwicklung des neuen Verfahrens beteiligt war. Nun gehe es allerdings darum herauszufinden, für welche anderen Arten der medizinischen Bildgebung die bei der Entwicklung von RETFound verwendeten Techniken eingesetzt werden könnten – etwa auf Magnetresonanz- oder Computertomografie-Scans, die oft drei- oder sogar vierdimensional sind.
+
+Die Autoren haben ihr Modell öffentlich zugänglich gemacht und hoffen, dass Gruppen auf der ganzen Welt in der Lage sind, es für ihre eigenen Patientenpopulationen und medizinischen Umgebungen anzupassen und zu trainieren. »Sie können diesen Algorithmus nehmen und ihn unter Verwendung von Daten aus ihrem eigenen Land verfeinern, um es für ihre Zwecke zu optimieren«, sagt Pearse Keane.
+
+Das sei zwar ungeheuer spannend, sagt Liu. RETFound als Grundlage für andere Modelle zur Erkennung von Krankheiten zu verwenden, berge jedoch auch Risiken, fügt sie hinzu. Denn alle Limitierungen, die das Verfahren enthält, könnten in künftige Modelle einfließen, die darauf aufbauen. »Es liegt nun an den Entwicklern von RETFound, die ethische und sichere Nutzung zu gewährleisten, einschließlich einer transparenten Kommunikation der Modellgrenzen, damit es ein echter Gewinn für die Gemeinschaft ist«, sagt sie.
+
