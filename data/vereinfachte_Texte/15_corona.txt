@@ -1,0 +1,23 @@
+Überschrift: Kein neuer Lockdown – das sind die Gründe
+
+Teaser: Das Virus breitet sich schneller aus, aber ein Lockdown ist nicht geplant. Wieso eigentlich nicht?
+
+Habt ihr schon mal von der Reproduktionszahl R gehört? Diese Zahl sagt uns, wie viele andere Menschen eine Person mit dem Virus durchschnittlich ansteckt. Bis Mitte April war die Zahl meistens kleiner als 1. Das bedeutet, dass das Virus sich langsamer verbreitet. Damals sanken die Neuinfektionen von täglich über 5500 auf 171. Diese Informationen kommen vom Robert Koch-Institut, kurz RKI.
+
+Nun hat sich die Zahl R aber auf über 2 erhöht. Ein bundesweiter Lockdown folgt daraus jedoch nicht. Wieso ist das so?
+
+R alleine reicht nicht, um die Lage zu verstehen. Momentan sind es vor allem kleine, örtliche Ausbrüche, die diese hohe Zahl ausmachen. Solche Ausbrüche passieren vielleicht in einem Unternehmen oder einem großen Haus.
+
+Abschnitt: Wie berechnet man R?
+
+Das RKI rechnet die Zahl R nicht einfach aus den täglichen Meldungen aus. Manchmal kommen Meldungen verspätet an, zum Beispiel am Wochenende oder wegen technischer Probleme. Das RKI guckt also auch, wann die Ansteckungen wirklich passiert sind. Manchmal muss man hier schätzen.
+
+Das RKI veröffentlicht täglich zwei R-Zahlen: Eine berücksichtigt die letzten vier Tage, die andere die letzten sieben Tage. Die Sieben-Tage-Zahl schwankt weniger und gibt uns ein besseres Bild von der Verbreitung des Virus.
+
+Abschnitt: Örtliche Ausbrüche beeinflussen die Zahl, sind aber im Griff
+
+Warum liegt R jetzt über 2? Der Hauptgrund sind lokale Fälle, zum Beispiel in einer Fleischfabrik in Gütersloh oder in Teilen von Berlin und Magdeburg.
+
+Aber die Lage ist jetzt anders als im Frühjahr. Wir wissen genauer, wo sich Menschen anstecken. So können wir schneller eingreifen. Wir brauchen keinen Lockdown für ganz Deutschland.
+
+Wenn also die Zahl R mal steigt, heißt das nicht gleich, dass alles wieder zugemacht wird. Wir verstehen das Virus besser und können zielgerichteter vorgehen.

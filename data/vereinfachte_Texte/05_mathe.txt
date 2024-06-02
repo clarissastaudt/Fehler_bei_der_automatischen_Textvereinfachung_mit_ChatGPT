@@ -1,0 +1,23 @@
+Überschrift: Computerprogramm knackt schwieriges Mathematikrätsel
+
+Teaser: "FunSearch" heißt das Programm, das Wissenschaftlern bei einem Mathematikproblem hilft. Dieses Problem kommt aus dem Spiel "Set".
+
+Ein kluges Computerprogramm macht nun Fortschritte bei einem mathematischen Rätsel des Spiels "Set". Das Spiel ist lustig und fordert auch das Können von Mathematikern heraus.
+
+"FunSearch" ist dieses Programm. Es beschäftigt sich mit schwieriger Mathematik. Es ist so gemacht, dass es in vielen mathematischen Bereichen und in der Datenverarbeitung helfen kann. Über diese Entdeckung berichtete das Magazin "Nature" am 14. Dezember 2023.
+
+Pushmeet Kohli von Google DeepMind sagt, dass so ein Programm noch nie zuvor Mathematikern so sehr geholfen hat. Frühere Programme konnten nur schon bekannte Probleme lösen.
+
+Zwischenüberschrift: FunSearch - ein Mathe-Genie
+
+Stellt euch "FunSearch" wie einen schlauen Freund vor, der Mathematik liebt. Es nutzt ein spezielles Computerverfahren, um dann selbst Programme zu entwickeln. Diese Programme sollen mathematische Aufgaben bewältigen. "FunSearch" prüft, ob die Lösungen stimmen. Wenn es Fehler findet, lernt das Programm daraus und verbessert sich.
+
+Bernardino Romera-Paredes hat dazu gesagt: Das Programm bringt uns neue Denkansätze. Aber nicht jeder Vorschlag funktioniert. Ein anderes Programm trennt die schlechten von den guten Ideen.
+
+Beim "Cap-Set-Problem" aus dem Spiel "Set" wurde "FunSearch" ausprobiert. In diesem Spiel gibt es 81 Karten, und Spieler müssen daraus Sets finden. Mathematiker haben herausgefunden, dass man mindestens 21 Karten braucht, um ein Set zu garantieren. Aber es gibt noch unbeantwortete Fragen dazu.
+
+Experten überlegen, wie viele Karten man braucht, wenn es noch mehr Merkmale auf den Karten gibt. "FunSearch" hat dazu eine neue Antwort für acht Merkmale entwickelt. Alhussein Fawzi von DeepMind sagt, dies könnte besser sein als alles zuvor.
+
+Ein Vorteil von "FunSearch" ist, dass wir seine Arbeit verstehen können. Wir lernen von den geschriebenen Programmen. Das erklärt Mathematiker Jordan Ellenberg. Das ist bei vielen anderen Computerprogrammen nicht so.
+
+Ellenberg sieht im Teamwork von Menschen und Computern eine Chance. Er hofft, dass Computer dazu beitragen, unsere Arbeit zu verbessern und nicht einfach nur Aufgaben von uns zu übernehmen.
